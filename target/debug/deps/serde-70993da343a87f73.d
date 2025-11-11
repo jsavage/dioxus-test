@@ -1,0 +1,14 @@
+/home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/deps/serde-70993da343a87f73.d: /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/build/serde-df38def07a3a4a8c/out/private.rs
+
+/home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/deps/libserde-70993da343a87f73.rlib: /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/build/serde-df38def07a3a4a8c/out/private.rs
+
+/home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/deps/libserde-70993da343a87f73.rmeta: /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/build/serde-df38def07a3a4a8c/out/private.rs
+
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/build/serde-df38def07a3a4a8c/out/private.rs:
+
+# env-dep:OUT_DIR=/home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/build/serde-df38def07a3a4a8c/out

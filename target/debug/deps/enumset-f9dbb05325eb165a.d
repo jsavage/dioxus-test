@@ -1,0 +1,12 @@
+/home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/deps/enumset-f9dbb05325eb165a.d: /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/lib.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/macros.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/derive.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/mod.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/array.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/primitive.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/set.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/traits.rs
+
+/home/jsavage/jdcs/dioxus-test-dogfood/dioxus-test/target/debug/deps/libenumset-f9dbb05325eb165a.rmeta: /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/lib.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/macros.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/derive.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/mod.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/array.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/primitive.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/set.rs /home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/traits.rs
+
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/lib.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/macros.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/derive.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/mod.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/array.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/repr/primitive.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/set.rs:
+/home/jsavage/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumset-1.1.10/src/traits.rs:
